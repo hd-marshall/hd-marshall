@@ -17,14 +17,14 @@ text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="450px" fill="#161b22" rx="15"/>
 <text x="20" y="30" fill="#c9d1d9">
-<tspan x="20" y="30">username@melbourne</tspan> -———————————————————————————————————————————-—-
-<tspan x="20" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows, macOS, Android</tspan>
-<tspan x="20" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Developer for 5+ years</tspan>
-<tspan x="20" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Melbourne, Australia</tspan>
-<tspan x="20" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Web Developer</tspan>
-<tspan x="20" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">VSCode, Sublime</tspan>
+<tspan x="20" y="30">harry-marshall ~ % cat aboutme.md</tspan> ————————————————————————————————————————————————————————————————————————
+<tspan x="20" y="70" class="cc">. </tspan><tspan class="key">Degree</tspan>:<tspan class="cc"> .............................................. </tspan><tspan class="value">Bachelor of Computer, Adv Comp Sci</tspan>
+<tspan x="20" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................................................ </tspan><tspan class="value">Windows, macOS, Linux</tspan>
+<tspan x="20" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ..................................................... </tspan><tspan class="value">Melbourne, Australia</tspan>
+<tspan x="20" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .................................................. </tspan><tspan class="value">Software Engineer, Web Developer</tspan>
+<tspan x="20" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................................................ </tspan><tspan class="value">VSCode, IntelliJ</tspan>
 <tspan x="20" y="150" class="cc">. </tspan>
-<tspan x="20" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">JavaScript, Python, HTML/CSS</tspan>
+<tspan x="20" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Python, HTML/CSS, C++, </tspan>
 <tspan x="20" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Frameworks</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">React, Node.js</tspan>
 <tspan x="20" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">English</tspan>
 <tspan x="20" y="230" class="cc">. </tspan>
@@ -37,6 +37,6 @@ text, tspan {white-space: pre;}
 <tspan x="20" y="370" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">github.com/hd-marshall</tspan>
 <tspan x="20" y="390" class="cc">. </tspan>
 <tspan x="20" y="410">- Current Projects</tspan> -———————————————————————————————————————-—-
-<tspan x="20" y="430" class="cc">. </tspan><tspan class="key">Projects</tspan>:<tspan class="cc"> </tspan><tspan class="value">data-visualization-dashboard, personal-portfolio-site, chatbot-assistant, mobile-first-web-app</tspan>
+<tspan x="20" y="430" class="cc">. </tspan><tspan class="key">Projects</tspan>:<tspan class="cc"> </tspan><tspan class="value">chess-ai, perfect-kitchen-robes-next</tspan>
 </text>
 </svg>
