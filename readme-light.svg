@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="490px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="475px" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -15,7 +15,7 @@ size-adjust: 109%;
 .cc {fill: #93a1a1;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="470px" fill="#fdf6e3" rx="15"/>
+<rect width="985px" height="475px" fill="#fdf6e3" rx="15"/>
 <text x="20" y="30" fill="#657b83">
 <tspan x="20" y="30">harry-marshall ~ % cat aboutme.txt</tspan>
 <tspan x="20" y="50">- About me</tspan> ———————————————————————————————————————————————————————————————————————————————————————
