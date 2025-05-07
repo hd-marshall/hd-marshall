@@ -28,7 +28,7 @@ text, tspan {white-space: pre;}
 <tspan x="20" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Frameworks</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">React (Next.js), Laravel, Flask.</tspan>
 <tspan x="20" y="210" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ...................................................................... </tspan><tspan class="value">MacOs, Linux, Windows.</tspan>
 <tspan x="20" y="230" class="cc">. </tspan>
-<tspan x="20" y="250" class="cc">. </tspan><tspan class="key">Interests</tspan>.<tspan class="key">Tech</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Data Visualization, UI/UX Design</tspan>
+<tspan x="20" y="250" class="cc">. </tspan><tspan class="key">Interests</tspan>.<tspan class="key">Tech</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Data Visualisation, UI/UX Design, 3D Printing.</tspan>
 <tspan x="20" y="270" class="cc">. </tspan><tspan class="key">Interests</tspan>.<tspan class="key">Learning</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Machine Learning, </tspan>
 <tspan x="20" y="290" class="cc">. </tspan>
 <tspan x="20" y="310">- Contact</tspan> ————————————————————————————————————————————————————————————————————————————————————————
@@ -37,6 +37,6 @@ text, tspan {white-space: pre;}
 <tspan x="20" y="370" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ................................................................. </tspan><tspan class="value">github.com/hd-marshall.</tspan>
 <tspan x="20" y="370" class="cc">. </tspan>
 <tspan x="20" y="390">- Current Projects</tspan> ———————————————————————————————————————————————————————————————————————————————
-<tspan x="20" y="410" class="cc">. </tspan><tspan class="key">Projects</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">perfect-kitchen-robes-next (www.perfectkitchenrobes.com), chess-ai.</tspan>
+<tspan x="20" y="410" class="cc">. </tspan><tspan class="key">Projects</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">perfect-kitchen-robes-next (www.perfectkitchenrobes.com), chess-ai.</tspan>
 </text>
 </svg>
