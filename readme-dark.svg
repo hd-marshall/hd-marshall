@@ -26,7 +26,7 @@ text, tspan {white-space: pre;}
 <tspan x="20" y="150" class="cc">. </tspan>
 <tspan x="20" y="170" class="cc">. </tspan><tspan class="key">Skills</tspan>.<tspan class="key">Languages</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">Python, HTML/CSS, TypeScript, C++, Java.</tspan>
 <tspan x="20" y="190" class="cc">. </tspan><tspan class="key">Skills</tspan>.<tspan class="key">Frameworks</tspan>:<tspan class="cc"> ............................................. </tspan><tspan class="value">React (Next.js), Laravel, Flask.</tspan>
-<tspan x="20" y="210" class="cc">. </tspan><tspan class="key">Skills</tspan>.<tspan class="key">OS</tspan>:<tspan class="cc"> ........................................................ </tspan><tspan class="value">MacOs, Linux, Windows.</tspan>
+<tspan x="20" y="210" class="cc">. </tspan><tspan class="key">Skills</tspan>.<tspan class="key">OS</tspan>:<tspan class="cc"> .............................................................. </tspan><tspan class="value">MacOs, Linux, Windows.</tspan>
 <tspan x="20" y="230" class="cc">. </tspan>
 <tspan x="20" y="250" class="cc">. </tspan><tspan class="key">Interests</tspan>.<tspan class="key">Tech</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">Data Visualisation, UI/UX Design, 3D Printing.</tspan>
 <tspan x="20" y="270" class="cc">. </tspan><tspan class="key">Interests</tspan>.<tspan class="key">Learning</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Machine Learning, Cloud Computing, Data Science.</tspan>
