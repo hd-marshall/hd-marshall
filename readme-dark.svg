@@ -15,7 +15,7 @@ size-adjust: 109%;
 .cc {fill: #637777;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="490px" fill="#011627" rx="15"/>
+<rect width="985px" height="470px" fill="#011627" rx="15"/>
 <text x="20" y="30" fill="#d6deeb">
 <tspan x="20" y="30">harry-marshall ~ % cat aboutme.txt</tspan>
 <tspan x="20" y="50">- About me</tspan> ———————————————————————————————————————————————————————————————————————————————————————
@@ -33,12 +33,11 @@ text, tspan {white-space: pre;}
 <tspan x="20" y="290" class="cc">. </tspan><tspan class="key">Interests</tspan>.<tspan class="key">General</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">Motorsports, Coffee, Music Festivals, CSGO.</tspan>
 <tspan x="20" y="310" class="cc">. </tspan>
 <tspan x="20" y="330">- Contact</tspan> ————————————————————————————————————————————————————————————————————————————————————————
-<tspan x="20" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ................................................... </tspan><tspan class="value">harry.marshall.dev@gmail.com.</tspan>
+<tspan x="20" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ............................................................ </tspan><tspan class="value">harry.marshall.dev@gmail.com.</tspan>
 <tspan x="20" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ........................................................... </tspan><tspan class="value">linkedin.com/in/hdmarshall.</tspan>
-<tspan x="20" y="390" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ................................................................. </tspan><tspan class="value">github.com/hd-marshall.</tspan>
-<tspan x="20" y="410" class="cc">. </tspan>
-<tspan x="20" y="430">- Projects</tspan> ———————————————————————————————————————————————————————————————————————————————————————
-<tspan x="20" y="450" class="cc">. </tspan><tspan class="key">Current</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">perfect-kitchen-robes-next (www.perfectkitchenrobes.com), chess-ai.</tspan>
-<tspan x="20" y="475">harry-marshall ~ % █</tspan>
+<tspan x="20" y="390" class="cc">. </tspan>
+<tspan x="20" y="410">- Projects</tspan> ———————————————————————————————————————————————————————————————————————————————————————
+<tspan x="20" y="430" class="cc">. </tspan><tspan class="key">Current</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">perfect-kitchen-robes-next (www.perfectkitchenrobes.com), chess-ai.</tspan>
+<tspan x="20" y="455">harry-marshall ~ % █</tspan>
 </text>
 </svg>
