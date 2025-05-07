@@ -18,7 +18,7 @@ text, tspan {white-space: pre;}
 <rect width="985px" height="475px" fill="#fdf6e3" rx="15"/>
 <text x="20" y="30" fill="#657b83">
 <tspan x="20" y="30">harry-marshall ~ % cat aboutme.txt</tspan>
-<tspan x="20" y="50">- About me</tspan> ———————————————————————————————————————————————————————————————————————————————————————
+<tspan x="20" y="50">- About Me</tspan> ———————————————————————————————————————————————————————————————————————————————————————
 <tspan x="20" y="70" class="cc">. </tspan><tspan class="key">Degree</tspan>:<tspan class="cc"> ............................................. </tspan><tspan class="value">Bachelor of Computer Science, Adv Comp Sci.</tspan>
 <tspan x="20" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ..................................................................... </tspan><tspan class="value">Melbourne, Australia.</tspan>
 <tspan x="20" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...................................................................... </tspan><tspan class="value">Software Engineer.</tspan>
