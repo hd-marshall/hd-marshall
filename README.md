@@ -1,4 +1,3 @@
-# Harry Marshall
 <picture>
   <!-- Solarized (Light) mode version -->
   <source 
