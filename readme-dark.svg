@@ -8,15 +8,15 @@ font-display: swap;
 -webkit-size-adjust: 109%;
 size-adjust: 109%;
 }
-.key {fill: #ffa657;}
-.value {fill: #a5d6ff;}
-.addColor {fill: #3fb950;}
-.delColor {fill: #f85149;}
-.cc {fill: #616e7f;}
+.key {fill: #7fdbca;}
+.value {fill: #c792ea;}
+.addColor {fill: #addb67;}
+.delColor {fill: #ef5350;}
+.cc {fill: #637777;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="490px" fill="#161b22" rx="15"/>
-<text x="20" y="30" fill="#c9d1d9">
+<rect width="985px" height="490px" fill="#011627" rx="15"/>
+<text x="20" y="30" fill="#d6deeb">
 <tspan x="20" y="30">harry-marshall ~ % cat aboutme.txt</tspan>
 <tspan x="20" y="50">- About me</tspan> ————————————————————————————————————————————————————————————————————————————————————————
 <tspan x="20" y="70" class="cc">. </tspan><tspan class="key">Degree</tspan>:<tspan class="cc"> ............................................. </tspan><tspan class="value">Bachelor of Computer Science, Adv Comp Sci.</tspan>
